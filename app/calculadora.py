@@ -4,30 +4,22 @@
 
 
 def sumar(a, b):
+    """Funcion Suma"""
     return a + b
 
 
-"""Funcion Suma"""
-
-
 def restar(a, b):
+    """Funcion Resta"""
     return a - b
 
 
-"""Funcion Resta"""
-
-
 def multiplicar(a, b):
+    """Funcion Multiplicacion"""
     return a * b
 
 
-"""Funcion Multiplicacion"""
-
-
 def dividir(a, b):
+    """Funcion Division"""
     if b == 0:
         raise ZeroDivisionError("No se puede dividir por cero")
     return a / b
-
-
-"""Funcion Division"""
