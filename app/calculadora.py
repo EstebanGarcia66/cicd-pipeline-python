@@ -1,6 +1,7 @@
 # app/calculadora.py
 """Funciones principales de la aplicacio"""
 
+
 def sumar(a, b):
     """Funcion Suma"""
     return a + b
