@@ -1,7 +1,5 @@
-"""Funciones principales de la aplicacio"""
-
 # app/calculadora.py
-
+"""Funciones principales de la aplicacio"""
 
 def sumar(a, b):
     """Funcion Suma"""
